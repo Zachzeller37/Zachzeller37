@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Zachzeller37
 - 👀 I’m interested in music and software.
-- 🌱 I’m currently learning to code.
-- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: zeller.zachary@gmail.com
 
 <!---
