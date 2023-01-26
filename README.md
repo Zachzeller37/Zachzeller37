@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zachzeller37
-- 👀 I’m interested in music and software.
-- 📫 How to reach me: zeller.zachary@gmail.com
+- 👋 It's me ZZ!
+- 👀 I dig tunes and squashing bugs.
+- 📫 zeller.zachary@gmail.com
 
 <!---
 Zachzeller37/Zachzeller37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
